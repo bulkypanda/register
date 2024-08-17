@@ -1,9 +1,9 @@
 {
   "owner": {
     "username": "bulkypanda",
-    "email": "arya@gummadi.net"
+    "discord": "797893294839037954"
   },
   "record": {
-    "CNAME": "bulkypanda.github.io"
+    "TXT": "vc-domain-verify=bulkypanda.is-a.dev,2663b877bd4c5686b60f"
   }
 }
